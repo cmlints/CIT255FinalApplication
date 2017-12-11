@@ -1,0 +1,10 @@
+1,Sally Sue,231-321-4567,Sprinkles,Dog,Small,Shih Tzu,Option 1: Bath - Haircut - Nail Trim,1,45
+2,Bobby Joe,231-651-5567,Guss,Dog,Large,German Shaperd,Option 3: Bath - Hair Brushed,2,55
+3,Barbie Raedol,231-321-4567,Sparkie,Dog,Medium,Boarder Collie,Option 3: Bath - Hair Brushed,3,45
+4,Jake,231-421-4667,Blaze,Dog,Large,Pitbull,Option 6: Bath - Nail Trim,1,55
+5,Ella,231-871-8657,Elmo,Dog,Large,Lab,Option 1: Bath - Haircut - Nail Trim,2,65
+6,Rae Bull,231-320-4007,Dusty,Dog,Small,Yorki,Option 1: Bath - Haircut - Nail Trim,3,45
+7,Kayden Right,231-541-9067,Gizmo,Dog,Small,Shih Tzu,Option 1: Bath - Haircut - Nail Trim,3,45
+8,Luke,231-320-9987,BayMax,Dog,Medium,Boxer,Option 6: Bath - Nail Trim,2,45
+9,Sally Sue,231-321-3345,Sprinkles,Dog,Large,Poodle,Option 1: Bath - Haircut - Nail Trim,2,65
+10,Bae Rox,231-321-0089,Rockie,Dog,Small,Shih Tzu,Option 1: Bath - Haircut - Nail Trim,1,45
